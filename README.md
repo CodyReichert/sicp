@@ -1,4 +1,4 @@
 sicp
 ====
 
-sicp
+sicp - exercises and solutions

@@ -7,4 +7,4 @@
 (a-plus-abs-b 5 5)
 
 ;; a-plus-abs-b takes two arguments. It checks if b is greater than 0. If the expression is true or false,
-;; the (+) or (-) operand is applied respectively. Find a plus the absolute value of b. 
+;; the (+) or (-) operand is applied respectively. 
